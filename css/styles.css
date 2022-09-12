@@ -1,0 +1,75 @@
+body {
+  background-color: #EAF6F6;
+}
+
+img {
+  background-color: #EAF6F6;
+}
+
+img:hover {
+  background-color: #EAF6F6;
+  padding: 0 .25rem;
+  transition: 0.5s;
+}
+
+h1 {
+  color: #3F72AF;
+  font-family: verdana;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: verdana;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: "serif" helvetica;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/******************CLASS SELECTORS***********/
+.heading {
+  color: #112D4E;
+}
+
+.docemoji {
+  width: 12em;
+  height: 12em;
+  opacity: 85;
+}
+
+/******************TAG SELECTORS***********/
+/******************ID SELECTORS***********/
+/**************** Copied online************/
+a {
+  box-shadow: inset 0 0 0 0 #54b3d6;
+  color: #54b3d6;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+a:hover {
+  color: #222831;
+  box-shadow: inset 230px 0 0 0 #54b3d6;
+}
+
+/* Presentational styles */
+a {
+  color: #54b3d6;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+/**************** Copied online************/
